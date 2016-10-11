@@ -1,5 +1,5 @@
 name: FBase
-main: Fbase\Main
+main: \Fantasy\Fbase\Main
 version: 1.0.0
 api: [2.0.0]
 load: POSTWORLD
