@@ -1,0 +1,7 @@
+name: FBase
+main: Fantasy\Fbase\Main
+version: 1.0.0
+api: [2.0.0]
+load: POSTWORLD
+author: Fantasy_Team[MattTardis,SnowXxm]
+commands:
